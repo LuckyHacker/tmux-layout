@@ -1,5 +1,5 @@
 # tmux-layout
 
 ```
-./tmux-layout <mysessionname>
+./tmux-layout.sh <mysessionname>
 ```
